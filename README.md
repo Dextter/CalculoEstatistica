@@ -1,7 +1,9 @@
 # CalculoEstatistica
 
 #Alunos:
+
 ##Ricardo Luiz da Silva Junior (juninho)
+
 ##Hugo Pablo Tomas de Araujo (Huguinho)
 
 ## Identificação
