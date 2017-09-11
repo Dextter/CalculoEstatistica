@@ -17,6 +17,6 @@ Problema: http://dojopuzzles.com/problemas/exibe/calculando-estatisticas-simples
 | ------------- | ------------- | ------------- | ------------- |
 | numeros            | numeros [0,infinito]               | numeros =! nulo                      | numeros = nulo               |
 | numero,numeros     | numero != nulo or isInt() == true && numeros != nulo  | numero = Max(numeros)                | numero != Max(numeros)       |
-| numero,numeros     | numero != nulo && numeros != nulo  | numero = Min(numeros)                | numero != Min(numeros)       |
+| numero,numeros     | numero != nulo or isInt() == true && numeros != nulo  | numero = Min(numeros)                | numero != Min(numeros)       |
 | totalSize,numeros  | totalSize > 0 && numeros != nulo   | totalSize = length(numeros)          | totalSize != length(numeros) |
 | media,numeros      | media != nulo && numeros != nulo   | media = numeros[0] + numero[1] + numero[...n-1]/n  | media != numeros[0] + numero[1] + numero[...n-1]/n |
